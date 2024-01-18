@@ -9,6 +9,9 @@
 ### this is where you write the project overview , that whta ur project contains, the source etc
 
  ### what your project contain
+![class chart](https://github.com/Lyfgozon/DA-PRACTICE-PROJECT/assets/122414785/432b6369-5eef-4d3c-9992-cb0479ae4c6f)
+
+ 
 
  ### data source
 
